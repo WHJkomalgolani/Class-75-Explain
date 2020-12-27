@@ -1,0 +1,4 @@
+Refer pdf properly for database settings.
+
+To check Output in phone:
+login id and password which is given in pdf use that in database and use it in phone in login.
